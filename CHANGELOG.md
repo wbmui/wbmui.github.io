@@ -1,118 +1,235 @@
 # Change Log
 
-## [Unreleased](https://github.com/gdg-managua/jekyll-mdl/tree/HEAD)
+## 2.2.6 (2019-02-02)
 
-## [v1.9.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.9.0) (2016-01-09)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.8.1...v1.9.0)
+### Enhancements
 
-**Implemented enhancements:**
+- Add [commit linter](https://commitlint.js.org/)
+- Add [EditorConfig](https://editorconfig.org/)
+- Update npm packages
 
-- Add Facebook app\_id to \_config.yml [\#37](https://github.com/gdg-managua/jekyll-mdl/pull/37) ([JmzTaylor](https://github.com/JmzTaylor))
-- Explicitly define height as auto [\#36](https://github.com/gdg-managua/jekyll-mdl/pull/36) ([JmzTaylor](https://github.com/JmzTaylor))
-- Add G+ and Google Play social links [\#35](https://github.com/gdg-managua/jekyll-mdl/pull/35) ([JmzTaylor](https://github.com/JmzTaylor))
+### Bug Fixes
 
-**Closed issues:**
+- Fix some spelling errors in documents
+- Fix some errors in configs
 
-- Nested lists don't work [\#33](https://github.com/gdg-managua/jekyll-mdl/issues/33)
+## 2.2.5 (2019-12-08)
 
-**Merged pull requests:**
+### Enhancements
 
-- Remove unused vars \#34 [\#40](https://github.com/gdg-managua/jekyll-mdl/pull/40) ([oscarmcm](https://github.com/oscarmcm))
-- added site to list. [\#38](https://github.com/gdg-managua/jekyll-mdl/pull/38) ([prosa100](https://github.com/prosa100))
+- Update to Jekyll 4.0
+- Add custom snippets for main/top, main/bottom, article/top,  article/bottom, etc
+- Add Medium, Zhihu social icons
+- Add Google Custom Search support
+- Add Korean locale (@ssosso)
+- Add French locale (@ctrl-q)
+- Add Docker support
 
-## [v1.8.1](https://github.com/gdg-managua/jekyll-mdl/tree/v1.8.1) (2016-01-07)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.8.0...v1.8.1)
+## 2.2.4 (2018-12-10)
 
-**Fixed bugs:**
+### Enhancements
 
-- Multiple highlighted posts breaks share button [\#31](https://github.com/gdg-managua/jekyll-mdl/issues/31)
+- Swiper component support mouse move
+- Add lightbox (modal image gallery)
+- Add Valine comment system (@Lloyar)
 
-**Merged pull requests:**
+### Bug Fixes
 
-- JKM-31 Fix share button in highlight post \#31 [\#32](https://github.com/gdg-managua/jekyll-mdl/pull/32) ([oscarmcm](https://github.com/oscarmcm))
+- Fix some spelling errors in documents (@Krinkle)
 
-## [v1.8.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.8.0) (2015-12-14)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.7.0...v1.8.0)
+## 2.2.3 (2018-11-11)
 
-**Fixed bugs:**
+### Enhancements
 
-- Bug in about page [\#28](https://github.com/gdg-managua/jekyll-mdl/issues/28)
-- the img style of about page is too large. [\#27](https://github.com/gdg-managua/jekyll-mdl/issues/27)
+- Add Swiper component
+- Add AddThis sharing service (@liao961120)
+- Add extensions for demos (CodePen)
+- Add special stylesheets for print
 
-## [v1.7.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.7.0) (2015-11-16)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.6.0...v1.7.0)
+## 2.2.2 (2018-10-21)
 
-**Implemented enhancements:**
+### Enhancements
 
-- :bug: Fix images displaying wider than card [\#26](https://github.com/gdg-managua/jekyll-mdl/pull/26) ([thunsaker](https://github.com/thunsaker))
+- Add extensions for audios (SoundCloud, Netease Cloud Music), videos (YouTube, TED, bilibili) and slide(SlideShare)
+- Add AddToAny sharing service
 
-**Fixed bugs:**
+## 2.2.1 (2018-10-02)
 
-- Images are bleeding over the card view [\#25](https://github.com/gdg-managua/jekyll-mdl/issues/25)
+### Enhancements
 
-## [v1.6.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.6.0) (2015-11-01)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.5.0...v1.6.0)
+- Update screenshots
+- Landing layout `data.sections` item's `image` add `full_width` setting
+- Remove `header.type` and add `header.background` setting
+- Page layout sidebar use document scroll when viewport width < 1024px, this enhance the user experience on a phone or a pad
+- Telegram social icon (@WangQiru)
+- Search panel use dark background
 
-**Implemented enhancements:**
+## 2.2.0 (2018-09-16)
 
-- Unconventional use of floating action button [\#23](https://github.com/gdg-managua/jekyll-mdl/issues/23)
-- JKM-23 fix Unconventional use of floating action button [\#24](https://github.com/gdg-managua/jekyll-mdl/pull/24) ([oscarmcm](https://github.com/oscarmcm))
+### Enhancements
 
-**Fixed bugs:**
+- `article_header` setting for page layout
+- Articles layout
+- New grid system
+- Image, card, item and hero components
+- Tag additional style
+- chart.js update to 2.7.2, mathjax update to 2.7.4 and mermaid update to 8.0.0-rc.8
 
-- Unconventional use of floating action button [\#23](https://github.com/gdg-managua/jekyll-mdl/issues/23)
+### Bug Fixes
 
-## [v1.5.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.5.0) (2015-10-25)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.4.1...v1.5.0)
+- Replace Lenna test image
 
-**Implemented enhancements:**
+## 2.1.0 (2018-08-26)
 
-- JKM-4 add support for disqus comments [\#22](https://github.com/gdg-managua/jekyll-mdl/pull/22) ([oscarmcm](https://github.com/oscarmcm))
+### Enhancements
 
-**Fixed bugs:**
+- Search panel (Click search icon in the header or press `s` or `/` key to search)
+- Npm social icon (@WangQiru)
 
-- Search not work in drawer mode [\#21](https://github.com/gdg-managua/jekyll-mdl/issues/21)
+### Bug Fixes
 
-## [v1.4.1](https://github.com/gdg-managua/jekyll-mdl/tree/v1.4.1) (2015-10-05)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.4.0...v1.4.1)
+- Google analytics may not work, use gtag.js
 
-## [v1.4.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.4.0) (2015-10-05)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.3.0...v1.4.0)
+## 2.0.2 (2018-07-29)
 
-**Implemented enhancements:**
+### Enhancements
 
-- JKM-2 Search layout [\#20](https://github.com/gdg-managua/jekyll-mdl/pull/20) ([oscarmcm](https://github.com/oscarmcm))
+- Highlight theme
+- Articles whit `sidebar.toc` support section navigator (previous and next navigator)
+- Aside Toc show immediately after page get ready (no more delay)
 
-## [v1.3.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.3.0) (2015-09-03)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.2.0...v1.3.0)
+### Bug Fixes
 
-**Implemented enhancements:**
+- Aside Toc may display error when scroll to bottom
 
-- Highlight multiple post [\#13](https://github.com/gdg-managua/jekyll-mdl/pull/13) ([oscarmcm](https://github.com/oscarmcm))
+## 2.0.1 (2018-07-07)
 
-## [v1.2.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.2.0) (2015-07-26)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.1.0...v1.2.0)
+> “All elements that respond to press should have a visual feedback when touched.”
+>
+> —TouchableWithoutFeedback in *React Native Docs*
 
-## [v1.1.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.1.0) (2015-07-25)
-[Full Changelog](https://github.com/gdg-managua/jekyll-mdl/compare/v1.0.0...v1.1.0)
+### Enhancements
 
-**Implemented enhancements:**
+- Some interaction details optimize: button and link add feedback when clicked, cancel button of input in archive layout, button focus style, etc
 
-- Add a Bitdeli Badge to README [\#8](https://github.com/gdg-managua/jekyll-mdl/pull/8) ([bitdeli-chef](https://github.com/bitdeli-chef))
+### Bug Fixes
 
-## [v1.0.0](https://github.com/gdg-managua/jekyll-mdl/tree/v1.0.0) (2015-07-21)
-**Implemented enhancements:**
+- `mathjax` and `mermaid` setting may not work
 
-- JKM-1 Create site pagination [\#5](https://github.com/gdg-managua/jekyll-mdl/pull/5) ([oscarmcm](https://github.com/oscarmcm))
+## 2.0.0 (2018-07-01)
 
-**Fixed bugs:**
+Breaking changes, please check [Update from 1.x to 2.x](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/update-from-1-to-2) for details
 
-- Broken vertical "more" menu [\#7](https://github.com/gdg-managua/jekyll-mdl/issues/7)
-- Post Layout Template [\#4](https://github.com/gdg-managua/jekyll-mdl/issues/4)
-- Button in card post [\#3](https://github.com/gdg-managua/jekyll-mdl/issues/3)
-- Highlight post and cards [\#2](https://github.com/gdg-managua/jekyll-mdl/issues/2)
-- Highlight post layout [\#1](https://github.com/gdg-managua/jekyll-mdl/issues/1)
+### Enhancements
 
+- Authors
+- License
+- New layouts (page, article, landing, etc)
 
+## 1.5.0 (2018-03-18)
 
-\* *This Change Log was automatically generated by [github_changelog_generator](https://github.com/skywinder/Github-Changelog-Generator)*
+### Enhancements
+
+- `text_color_theme` setting
+- Long pagination
+- Additional styles (Alert, Image)
+- Mathjax `autoNumber` setting (@liao961120)
+- Article heading anchor
+- Previous and next post
+- Search
+
+## 1.4.3 (2018-01-13)
+
+### Enhancements
+
+- New TOC style
+- Gitalk support (@WangQiru)
+- Mermaid support
+- `site.paths` and `site.nav_lists` configs support absolute URL
+
+## 1.4.2 (2017-12-10)
+
+### Enhancements
+
+- Use new liquid syntax `{%-` `-%}` to avoid unnecessary output whitespace
+- Add `paths.base` setting
+
+## 1.4.1 (2017-12-05)
+
+### Enhancements
+
+- New color themes(Chocolate, Orange)
+
+### Bug Fixes
+
+- Issues 9: the _posts file can't recorded by git
+
+## 1.4.0 (2017-11-19)
+
+### Enhancements
+
+- Internationalization
+
+### Bug Fixes
+
+- Table overflow-x smooth on iOS
+
+## 1.3.0 (2017-11-11)
+
+### Enhancements
+
+- Article tag supports special characters
+- Excerpts type (HTML | TEXT)
+- Titles on the phone become smaller
+- Change styles for table, code and blockquote
+
+## 1.2.2 (2017-11-04)
+
+### Enhancements
+
+- MathJax Support
+- Add “Read more” link at the end of article excerpt
+- 404 page
+
+### Bug Fixes
+
+- Fix Email link URL error
+- Fix Site Title link URL error
+- Fix table responsive style error
+
+## 1.2.1 (2017-10-27)
+
+### Enhancements
+
+- Optimize Article TOC
+
+### Bug Fixes
+
+- Pageview display error when the post key include `-` (@yuxianda)
+- Email url error
+
+## 1.2.0 (2017-10-22)
+
+### Enhancements
+
+- Article excerpt no more than 200 words
+- If `leancloud` is not set, 0 view won't display
+
+### Bug Fixes
+
+- Fix article TOC’s display error at proper situation
+- Fix footer social buttons not in the center bug
+
+## 1.1.0 (2017-10-19)
+
+### Enhancements
+
+- Color variables
+- More color themes (dark, forest, ocean)
+
+## 1.0.0 (2017-10-17)
+
+### Enhancements
+
+- Better article directories
+- Dark color theme

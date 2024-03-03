@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: article
 title: 关于
-permalink: /about/
+key: page-about
 ---
-感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板。此网站目前访问速度慢，存在少量英文。
+
+感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [@kitian616](https://github.com/kitian616) 制作[网站主题](https://github.com/kitian616/jekyll-TeXt-theme)。此网站目前访问速度慢，存在少量英文，并且由于 GitHub 访问速度慢，此网站更新频率较低。
+
+[新站测试中](\new)
 
 ### 关于我
 
