@@ -5,7 +5,7 @@ title: 下载中心
 
 **欢迎来到 WinBetaUser 下载中心！**
 
-您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、[Nicrozoft](https://nicrozoft.github.io) 产品！
+您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、[Nicrozoft](https://space.bilibili.com/3546641434937345) 产品！
 {:.info}
 
 ### WinBetaUser / WinBetaMUI Team 产品
@@ -22,9 +22,6 @@ WinBetaMUI Team - 本地化 Longhorn M7 所需文件（[123 网盘](https://www.
 
 ### Nicrozoft 产品
 
-[Nicrozoft - 操作系统](https://pan.huang1111.cn/s/GmNgFW)
+Nicrozoft - 操作系统（[huang1111 网盘](https://pan.huang1111.cn/s/GmNgFW)）
 
-[Nicrozoft - 工具](https://pan.huang1111.cn/s/NZGQH1)
-
-欢迎提交申请将您的产品发布到此页面！
-{:.info}
+Nicrozoft - 工具（[huang1111 网盘](https://pan.huang1111.cn/s/NZGQH1)）

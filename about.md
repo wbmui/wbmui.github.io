@@ -22,7 +22,7 @@ WinBetaUser 的官方 QQ 交流群：743118648
 
 ### 友情链接
 
-[Nicrozoft 官方网站](https://nicrozoft.github.io)
+[Nicrozoft 的官方网站](https://nicrozoft.github.io)
 
 [AndyChung123 的网站](https://andychung123.github.io)
 
