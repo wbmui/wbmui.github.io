@@ -11,19 +11,11 @@ Windows Polaris OS 是 Windows Core OS （简称 WCOS）的取消变体，它和
 注：请不要把 Windows Core OS 与 Windows Core 混淆。Windows Core Build 16236 是泄露的 ARM32 架构系统，但是安装起来比较麻烦。
 {:.info}
 
-### 启动画面
-
-![polaris-os-img0](https://gitee.com/winbetauser/imgs/raw/master/polaris-os-boot.png)
-
-### 概念图片
-
-![polaris-os-img0](https://gitee.com/winbetauser/imgs/raw/master/polaris-os-img0.png)
-
-![polaris-os-img1](https://gitee.com/winbetauser/imgs/raw/master/polaris-os-img1.png)
-
 ### 下载
 
-请前往[下载中心](/download)的“系统镜像”部分下载。位置：用于移动设备的 Windows\Windows Polaris OS\\<对应文件>
+请前往[下载中心](/download)的“系统镜像”部分下载。
+
+位置：用于移动设备的 Windows\Windows Polaris OS\\<对应文件>
 
 ### 观看视频
 
