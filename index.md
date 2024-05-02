@@ -3,7 +3,8 @@ layout: article
 title: 主页
 ---
 
-
+此网站已停止更新。请前往 https://wbmui.github.io。
+{:.error}
 
 ### 欢迎
 
