@@ -19,3 +19,7 @@ title: 主页
 
 敬请开启您的 WinBetaUser 的网站之旅吧！
 {:.info}
+
+### 桌面 Windows 版本全球市场份额
+
+<div id="desktop-windows_version-ww-monthly-202304-202304" width="600" height="400" style="width:600px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/#monthly-202304-202304-bar">StatCounter Global Stats - Windows Version Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?desktop-windows_version-ww-monthly-202304-202304&chartWidth=600"></script>
