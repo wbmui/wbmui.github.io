@@ -3,6 +3,9 @@ title: Windows Polaris OS
 tags: 操作系统
 ---
 
+此网站已停止更新，停止更新后此网站上有些内容可能不准确。请前往 https://wbmui.github.io。
+{:.error}
+
 关于 Windows Polaris OS 的介绍详见 [BetaWiki](http://betawiki.net/wiki/Windows_Polaris_OS)。
 <!--more-->
 
