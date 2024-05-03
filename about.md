@@ -4,7 +4,10 @@ title: 关于
 key: page-about
 ---
 
-感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [@kitian616](https://github.com/kitian616) 制作[网站主题](https://github.com/kitian616/jekyll-TeXt-theme)。此网站目前访问速度慢，存在少量英文，并且由于本人时间不多，此网站更新频率较低。
+此网站已停止更新，停止更新后此网站上有些内容可能不准确。请前往 https://wbmui.github.io。
+{:.error}
+
+感谢 [Jekyll](https://jekyllrb.com/) 提供网站模板，和 [@kitian616](https://github.com/kitian616) 制作[网站主题](https://github.com/kitian616/jekyll-TeXt-theme)。此网站目前访问速度慢，存在少量英文。
 
 ### 关于我
 
