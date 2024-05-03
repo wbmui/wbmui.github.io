@@ -3,9 +3,6 @@ layout: article
 title: 下载中心
 ---
 
-此网站已停止更新，停止更新后此网站上有些内容可能不准确。请前往 https://wbmui.github.io。
-{:.error}
-
 **欢迎来到 WinBetaUser 下载中心！**
 
 您可在此下载 WinBetaUser / [WinBetaMUI Team](/winbetamui) 产品、[Nicrozoft](https://space.bilibili.com/3546641434937345) 产品！

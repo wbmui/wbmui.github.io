@@ -3,9 +3,6 @@ layout: article
 title: 主页
 ---
 
-此网站已停止更新，停止更新后此网站上有些内容可能不准确。请前往 https://wbmui.github.io。
-{:.error}
-
 ### 欢迎
 
 欢迎来到 WinBetaUser 的网站！我是一个 B 站 UP 主，喜欢发布科技类的视频。
