@@ -15,8 +15,6 @@ Windows Polaris OS 是 Windows Core OS （简称 WCOS）的取消变体，它和
 
 请前往[下载中心](/download)的“系统镜像”部分下载。
 
-位置：用于移动设备的 Windows\Windows Polaris OS\\<对应文件>
-
 ### 观看视频
 
 <div>{%- include extensions/bilibili.html id='868602654' -%}</div>
