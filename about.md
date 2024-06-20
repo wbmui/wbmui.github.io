@@ -8,17 +8,17 @@ key: page-about
 
 ### 关于我
 
-我喜欢 Windows 和发布科技类的视频，原名为 WinBetaLover，是 [WinBetaMUI Team](/winbetamui) 的队长，此团队主要制作 Windows（例如 Windows Longhorn build 4074）的语言包。
+我喜欢 Windows 和发布科技类的视频，是 [WinBetaMUI Team](/winbetamui) 的队长，此团队主要制作 Windows（例如 Windows Longhorn build 4074）的语言包。
 
 [我的 B 站账户](https://space.bilibili.com/410645610) 
 
 **我的视频只在 B 站发布，在其他平台发布均为盗视频！**
 
-WinBetaUser 的官方 QQ 交流群：743118648
+我的 QQ 交流群：743118648
 
-[WinBetaUser 的官方 Teams 交流群](https://teams.live.com/l/invite/FEAmeoOdKfVGNvmNAE)
+[我的 Teams 交流群](https://teams.live.com/l/invite/FEAmeoOdKfVGNvmNAE)
 
-[在 BiliBili 上私聊 WinBetaUser](https://message.bilibili.com/#whisper/mid410645610)
+[在 BiliBili 上私聊我](https://message.bilibili.com/#whisper/mid410645610)
 
 ### 友情链接
 
