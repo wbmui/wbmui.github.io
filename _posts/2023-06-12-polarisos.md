@@ -8,7 +8,7 @@ tags: 操作系统
 
 Windows Polaris OS 是 Windows Core OS （简称 WCOS）的取消变体，它和 Windows Andromeda OS 一起取消后变成了 Windows 10X。它只泄露了一个版本，但是缺少大量 shell 文件，导致开机后黑屏。它可以用 [GitHub @binarymaster 的修改版 QEMU](https://github.com/binarymaster/qemu/releases/tag/v6.2.0-winrt-v3) 进行模拟。
 
-请不要把 Windows Core OS 与 Windows Core 混淆。Windows Core Build 16236 是泄露的 ARM32 架构系统，但是你需要得到一台 ARM32 的 Windows Phone 8.1 实体机。
+请不要把 Windows Core OS 与 Windows Core 混淆。
 {:.info}
 
 ### 下载
