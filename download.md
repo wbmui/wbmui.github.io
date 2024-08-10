@@ -18,7 +18,7 @@ WinBetaUser - 实用工具（[123 网盘](https://www.123pan.com/s/lTO8jv-4HRHA.
 
 WinBetaUser - Windows 多语言（[123 网盘](https://www.123pan.com/s/lTO8jv-mHRHA.html) / [huang1111网盘](https://pan.huang1111.cn/s/4evzcg)）
 
-WinBetaUser - 本地化 Longhorn M7 所需文件（[123 网盘](https://www.123pan.com/s/lTO8jv-AHRHA.html) / [huang1111网盘](https://pan.huang1111.cn/s/lQkKuL)）
+WinBetaUser - 本地化所需文件（[123 网盘](https://www.123pan.com/s/lTO8jv-AHRHA.html) / [huang1111网盘](https://pan.huang1111.cn/s/lQkKuL)）
 
 ### Nicrozoft
 
