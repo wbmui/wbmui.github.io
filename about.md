@@ -10,8 +10,6 @@ key: page-about
 
 [我的 B 站账户](https://space.bilibili.com/410645610) 
 
-我的 QQ 交流群：743118648
-
 [我的 Teams 交流群](https://teams.live.com/l/invite/FEAmeoOdKfVGNvmNAE)
 
 [在 BiliBili 上私聊我](https://message.bilibili.com/#whisper/mid410645610)
